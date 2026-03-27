@@ -1,0 +1,153 @@
+{
+      "unid": 7343,
+      "crdb": "Dodge_ViperSR1LPClassic_1995",
+      "grsp": [
+        2.66,
+        1.78,
+        1.3,
+        1.0,
+        0.74,
+        0.5
+      ],
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "tafr": 0.0,
+      "titp": 0.0,
+      "tssp": 0.0,
+      "tssr": 0.0,
+      "ttup": 0.0,
+      "ttpp": 0.0,
+      "apiid": 261,
+      "oriid": 261,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 1384,
+      "orlid": 1384,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Dodge_ViperSR1LPClassic_1995_Wheel2A_3D"
+      ],
+      "opcn": "Dodge_ViperSR1LPClassic_1995_Wheel2A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "rpst": [
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 2,
+          "rvlf": 2
+        }
+      ],
+      "cppi": 713,
+      "cepi": 1693,
+      "ttqm": 6.029,
+      "tthm": 8.546,
+      "ctie": "TIER_5",
+      "csrc": "Unknown",
+      "nupl": {
+        "cpf": false
+      }
+    }
